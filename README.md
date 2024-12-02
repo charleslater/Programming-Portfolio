@@ -10,5 +10,5 @@
   
 ### SpaceGame
 Description: 00p solution for a collision based space game themed game.
-![GamePlay] https://github.com/charleslater/Programming-Portfolio/blob/main/images/Screenshot%202024-12-02%20at%2011.32.05%20AM.png
+![Looks] https://github.com/charleslater/Programming-Portfolio/blob/main/images/Screenshot%202024-12-02%20at%2011.32.05%20AM.png
 [Source Code] https://github.com/charleslater/Programming-Portfolio/tree/main/src/SpaceGame
