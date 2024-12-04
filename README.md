@@ -4,16 +4,16 @@
 
   ## Term 1
   ### Temp Converter
-  ![Looks]()
-  [Source Code]()
+  ![Looks](https://github.com/charleslater/Programming-Portfolio/blob/main/images/Screenshot%202024-12-04%20at%2012.12.25%20PM.png)
+  [Source Code](https://github.com/charleslater/Programming-Portfolio/tree/main/TempConverter)
 
   ### GradingApp
-  ![Looks]()
-  [Source Code]()
+  ![Looks](https://github.com/charleslater/Programming-Portfolio/blob/main/images/Screenshot%202024-12-04%20at%2012.18.43%20PM.png)
+  [Source Code](https://github.com/charleslater/Programming-Portfolio/tree/main/gradingApp)
 
   ### Timeline
-  ![Looks]()
-  [Source Code]()
+  ![Looks](https://github.com/charleslater/Programming-Portfolio/blob/main/images/Screenshot%202024-12-04%20at%2012.17.17%20PM.png)
+  [Source Code](https://github.com/charleslater/Programming-Portfolio/tree/main/Timeline)
 
   ## Term 2
   ### Calculator
