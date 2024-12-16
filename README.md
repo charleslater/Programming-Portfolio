@@ -2,7 +2,7 @@
 * Projected Graduation in 2026
 * Typing at 40 WPM
 * Have a YouScience Computer Programming 1 certificate (seen below)
-  ![Looks]()
+  ![Looks](https://github.com/charleslater/Programming-Portfolio/blob/main/images/Charles%20Quinn%20Later_Computer%20Programming%20I_12162024.pdf)
 
   ## Term 1
   ### Temp Converter
