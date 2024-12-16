@@ -1,6 +1,8 @@
 # Charles Later's Programming-Portfolio
 * Projected Graduation in 2026
 * Typing at 40 WPM
+* Have a YouScience Computer Programming 1 certificate (seen below)
+  ![Looks]()
 
   ## Term 1
   ### Temp Converter
