@@ -1,6 +1,7 @@
 # Charles Later's Programming-Portfolio
 * Projected Graduation in 2026
 * Typing at 40 WPM
+* Contact Info [Charles Later](mailto:charles.q.later@gmail.com)
 * Have a YouScience Computer Programming 1 certificate (seen below)
   ![Looks](https://github.com/charleslater/Programming-Portfolio/blob/main/images/Charles%20Quinn%20Later_Computer%20Programming%20I_12162024.pdf)
 
